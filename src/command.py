@@ -1,10 +1,11 @@
+#!/usr/bin/env python2.7
 # -*- coding:UTF-8 -*-
 
 from cmd_parser import cmd_parser
 from parser import nhentai_parser
 from nhentai import nhentai
 from downloader import Downloader
-from Watcher import Watcher
+from watcher import Watcher
 
 
 def main():
