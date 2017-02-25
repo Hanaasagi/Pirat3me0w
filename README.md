@@ -1,5 +1,6 @@
 #Pirat3me0w
-download nhentai manga
+Download nhentai manga  
+![](https://github.com/Hanaasagi/Pirat3me0w/blob/master/images/cover.png)
 ###Install
 Pirat3me0w works on Python2.7, and do not support Python3.x yet  
 
