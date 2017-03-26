@@ -1,7 +1,7 @@
-#Pirat3me0w
+# Pirat3me0w
 Download nhentai manga  
 ![](https://github.com/Hanaasagi/Pirat3me0w/blob/master/images/cover.png)
-###Install
+### Install
 Pirat3me0w works on Python2.7, and do not support Python3.x yet  
 
 Pirat3me0w depends on this third-party packages  
@@ -30,7 +30,7 @@ Open the nhentai.net and get the manga' url, Maybe like this
 
 More usage, see next section.
 
-###Usage  
+### Usage  
 -  --id 
 an id list for example '--id 188909, 188891'
 -  --threads
